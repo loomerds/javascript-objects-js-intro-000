@@ -1,1 +1,1 @@
-var playlist = {};
+var playlist = {Campbell: "In Your Eyes"};
